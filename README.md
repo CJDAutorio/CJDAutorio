@@ -1,4 +1,5 @@
-<h2 align="left">Hi 👋! My name is CJ and I'm a Developer and recent graduate, from Charlotte, North Carolina</h2>
+<h2 align="left">Hi 👋! My name is CJ and I'm a Developer and recent graduate, from Charlotte, North Carolina!</h2>
+<h3 align="left">Currently working on a project to algorithmically sort your Spotify playlists! Check in soon to see when it's done!</h3>
 
 ###
 
@@ -9,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
@@ -29,7 +30,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="mailto: cjdautorioalt@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
@@ -41,4 +42,3 @@
 ###
 
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=struggle__&unique={true|1|on|yes})
-
