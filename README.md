@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is CJ and I'm a developer and recent graduate from Charlotte, North Carolina!</h2>
+<h2 align="left">👋 Hi! My name is CJ and I'm a developer and recent graduate from Charlotte, North Carolina!</h2>
 <h3 align="left">Currently working on a project to algorithmically sort your Spotify playlists! Check in soon to see when it's done!</h3>
 
 ###
